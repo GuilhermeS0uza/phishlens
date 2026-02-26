@@ -1,0 +1,37 @@
+# URL Shortener Services
+# Source: awesome-lists (mthcht)
+# Purpose: phishing heuristic — shorteners hide real destination
+
+0rz.tw
+1drv.ms
+2.gp
+2.ly
+3.ly
+4sq.com
+adf.ly
+bit.do
+bit.ly
+bitly.com
+bl.ink
+buff.ly
+cutt.ly
+db.tt
+dlvr.it
+goo.gl
+is.gd
+kutt.it
+lc.chat
+lnkd.in
+ow.ly
+rebrand.ly
+rb.gy
+shorturl.at
+soo.gd
+t.co
+tiny.cc
+tinyurl.com
+tr.im
+v.gd
+x.co
+youtu.be
+zpr.io

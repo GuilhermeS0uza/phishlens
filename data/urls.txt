@@ -1,0 +1,12 @@
+https://accounts.google.com
+http://bit.ly/somepath
+http://192.168.0.1/login
+https://secure-login-verify-account.example.xyz/update?session=123
+https://google.com
+https://g00gle.com
+https://g00gle.com/login
+http://testsafebrowsing.appspot.com/s/phishing.html
+https://bit.ly/3mYf8example
+http://127.0.0.1:8080/login
+https://xn--pple-43d.com
+https://secure-login.account.verify.example.com/login

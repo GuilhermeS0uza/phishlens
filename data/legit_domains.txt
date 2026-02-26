@@ -1,0 +1,10 @@
+google.com
+microsoft.com
+apple.com
+amazon.com
+facebook.com
+instagram.com
+linkedin.com
+paypal.com
+github.com
+cloudflare.com
